@@ -61,15 +61,15 @@ Pengguna yang dapat memakai sistem ini adalah User.
   <tbody>
     <tr>
       <td width="33%">
-        <h5>Login Form</h5>
+        <h5>Form Niat Shalat</h5>
         <img src="assets/images/Niatsholat.png"><br>
       </td>
       <td width="33%">
-        <h5>Form Tambah Pegawai</h5>
+        <h5>Form Bacaan Shalat</h5>
         <img src="assets/images/Bacaansholat.png">
       </td>
       <td width="33%">
-        <h5>Form Detail Pegawai</h5>
+        <h5>Form Bacaan Ayat Qursi</h5>
         <img src="assets/images/ayatkursi.png">
       </td>
     </tr>
